@@ -29,6 +29,7 @@ public class SnakeAndLadderSimulator {
 
             }
             System.out.println(playerPosition);
+            System.out.println(" ");
         }
         System.out.println("player is on " + playerPosition);
     }
